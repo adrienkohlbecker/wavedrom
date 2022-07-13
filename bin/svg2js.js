@@ -83,6 +83,7 @@ const getDefStyle = () => `
   .arc_error { fill:none;stroke:#F00;stroke-width:1 }
   .arc_default { fill:none;stroke:#00F;stroke-width:1 }
   .arc_label_bg { fill:#FFF }
+  .arc_vertical { fill:none;stroke:rgba(24, 24, 24, 0.38);stroke-width:1;stroke-dasharray: 3,3; }
 
   .group_path { stroke:#0041c4;stroke-width:1;fill:none }
   .gmarks { stroke:#888;stroke-width:0.5;stroke-dasharray:1,3 }
